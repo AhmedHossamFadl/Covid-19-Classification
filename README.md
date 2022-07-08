@@ -1,1 +1,1 @@
-# Covid-19-Classification
+# Covid-19 Classification
